@@ -67,7 +67,7 @@ function Contact() {
 
           {/* Download CV Button */}
           <a
-            href="../FrontEnddev.pdf"
+            href="../Fayez Mohammed Fayez (FrontEnd).pdf"
             download
             className="inline-flex items-center gap-2 mt-6 bg-yellow-400 text-black font-bold px-6 py-3 rounded-lg hover:bg-yellow-500 transition duration-300"
           >
